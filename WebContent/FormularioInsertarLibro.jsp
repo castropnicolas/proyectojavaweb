@@ -8,7 +8,7 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 <script type="text/javascript" src="js/validacion.js">
 	
 </script>
-<title>Formulario Libro</title>
+<title>Formulario Libro 2.0</title>
 </head>
 <body>
 	<form id="formularioInsercion" action="InsertarLibro.jsp">
